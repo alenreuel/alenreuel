@@ -3,8 +3,7 @@
 
 ## Currently, I'm
 - 👨‍🎓 Pursuing a Master's Degree in Computer Science @[National University of Singapore](https://nus.edu.sg/).<br>
-- 👨‍💻 Working as a Software Engineering Intern @[Aleph Technologies](https://www.alephtech.ai/)
-<br>
+- 👨‍💻 Working as a Software Engineering Intern @[Aleph Technologies](https://www.alephtech.ai/) <br>
 - 💭 Learning about Operating Systems, Network Security and Microsoft Azure Fundamentals.
 
 
@@ -25,7 +24,6 @@
       </a>  
     </div>
   </div>
-
   <!-- Backend Section -->
   <div style="display: flex; flex-direction: column; align-items: flex-start; border: solid; padding: 10px; border-radius: 10px;">
     <h3 style="font-weight: bold;  margin: 0 0 0 0">Backend</h3>
