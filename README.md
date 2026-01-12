@@ -41,6 +41,8 @@
           <img src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" height="40"/></a>
         <a href="https://ubuntu.com/" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="Linux" height="40"/></a>
+        <a href="https://www.postgresql.org/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="40"/></a>
       </td>
       <td>
         <a href="https://pandas.pydata.org/" target="_blank">
