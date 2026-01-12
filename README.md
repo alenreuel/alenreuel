@@ -14,7 +14,7 @@
       <th>Frontend</th>
       <th>Backend</th>
       <th>Data Science & ML</th>
-      <th>Others</th>
+      <th>Documentation</th>
     </tr>
   </thead>
   <tbody>
