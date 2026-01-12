@@ -51,7 +51,7 @@
         <a href="https://www.markdownguide.org/" target="_blank">
           <img src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png?raw=true" alt="Markdown" height="40"/></a>
         <a href="https://www.latex-project.org/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/667583?s=200&v=4" alt="Latex" height="40"/></a>
+          <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/latex-light.svg" alt="Latex" height="40"/></a>
       </td>
     </tr>
   </tbody>
