@@ -29,10 +29,9 @@
       </td>
       <td>
         <a href="https://fastapi.tiangolo.com/" target="_blank">
-          <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0" alt="FastAPI" height="40"/>
-        </a>
+          <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0" alt="FastAPI" height="40"/></a>
         <a href="https://www.docker.com/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker" height="40></a>
+          <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker" height="40" /></a>
         <a href="https://git-scm.com/" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" height="40"/></a>
         <a href="https://ubuntu.com/" target="_blank">
