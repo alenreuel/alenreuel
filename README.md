@@ -1,6 +1,11 @@
 
 # 👋 Hi, I'm Alen!
 
+*A full-time CS Master's student and a part-time software engineer who works on building AI-powered data applications where my contributions entail the application development that runs on a cloud infrastructure. I enjoy working on problems involving the development of efficient algorithms, use machine learning to solve unique business problems and investigating root causes to build creative solutions when systems break or when I notice them being unexpectedly inefficient.*
+
+*Feel free to connect with me to discuss any interesting project ideas, cool opportunities or any restaurant/café recommendations.* 🙂
+
+
 ## Currently, I'm
 - 👨‍🎓 Pursuing a Master's Degree in Computer Science @[National University of Singapore](https://nus.edu.sg/).<br>
 - 👨‍💻 Working as a Software Engineering Intern @[Aleph Technologies](https://www.alephtech.ai/) <br>
