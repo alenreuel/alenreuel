@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Alen!
 
-_A full-time CS Master's student and a part-time software engineer who works on building an AI-powered data application where my contributions entails towards the development of the backend application. I enjoy working on problems which involve the development of efficient algorithms, use machine learning to solve unique business problems and investigating root causes to build creative solutions when systems break or when I notice something being unexpectedly inefficient._
-
-_Feel free to connect with me to discuss any interesting project ideas, cool opportunities or restaurant/café recommendations._ 🙂
+_A full-time CS Master's student and a part-time software engineer who works on building AI-powered data applications where my contributions entail the application development that runs on a cloud infrastructure. I enjoy working on problems involving the development of efficient algorithms, use machine learning to solve unique business problems and investigating root causes to build creative solutions when systems break or when I notice them being unexpectedly inefficient._
 
 _Feel free to connect with me to discuss any interesting project ideas, cool opportunities or restaurant/café recommendations._ 🙂
 
