@@ -1,12 +1,13 @@
-
 # 👋 Hi, I'm Alen!
 
-*A full-time CS Master's student and a part-time software engineer who works on building an AI-powered data application where my contributions entails towards the development of the backend application. I enjoy working on problems which involve the development of efficient algorithms, use machine learning to solve unique business problems and investigating root causes to build creative solutions when systems break or when I notice something being unexpectedly inefficient.*
+_A full-time CS Master's student and a part-time software engineer who works on building an AI-powered data application where my contributions entails towards the development of the backend application. I enjoy working on problems which involve the development of efficient algorithms, use machine learning to solve unique business problems and investigating root causes to build creative solutions when systems break or when I notice something being unexpectedly inefficient._
 
-*Feel free to connect with me to discuss any interesting project ideas, cool opportunities or restaurant/café recommendations.* 🙂
+_Feel free to connect with me to discuss any interesting project ideas, cool opportunities or restaurant/café recommendations._ 🙂
 
+_Feel free to connect with me to discuss any interesting project ideas, cool opportunities or restaurant/café recommendations._ 🙂
 
 ## Currently, I'm
+
 - 👨‍🎓 Pursuing a Master's Degree in Computer Science @[National University of Singapore](https://nus.edu.sg/).<br>
 - 👨‍💻 Working as a Software Engineering Intern @[Aleph Technologies](https://www.alephtech.ai/) <br>
 - 💭 Learning about Operating Systems, Network Security and Microsoft Azure Fundamentals.
@@ -25,12 +26,14 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+          <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40"/></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
           <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40"/></a>
         <a href="https://www.javascript.com/" target="_blank">
           <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-          <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40"/></a>
+          <a href="https://react.dev" target="_blank">
+          <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-svg-download-png-282599.png?f=webp" alt="ReactJS" height="40"/></a>
       </td>
       <td>
         <a href="https://fastapi.tiangolo.com/" target="_blank">
