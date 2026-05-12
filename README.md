@@ -30,18 +30,20 @@ _Feel free to connect with me to discuss any interesting project ideas, cool opp
           <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40"/></a>
         <a href="https://www.javascript.com/" target="_blank">
           <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" /></a>
+        <a href="https://www.typescriptlang.org/docs/handbook/intro.html" target="_blank">
+          <img src="https://skillicons.dev/icons?i=typescript" alt="JavaScript" height="40" /></a>
           <a href="https://react.dev" target="_blank">
-          <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-svg-download-png-282599.png?f=webp" alt="ReactJS" height="40"/></a>
+          <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" height="40"/></a>
       </td>
       <td>
         <a href="https://fastapi.tiangolo.com/" target="_blank">
-          <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0" alt="FastAPI" height="40"/></a>
+          <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="40"/></a>
         <a href="https://www.docker.com/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" alt="Docker" height="40" /></a>
+          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" /></a>
         <a href="https://git-scm.com/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" height="40"/></a>
+          <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/></a>
         <a href="https://ubuntu.com/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="Linux" height="40"/></a>
+          <img src="https://skillicons.dev/icons?i=ubuntu" alt="Linux" height="40"/></a>
         <a href="https://www.postgresql.org/" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="40"/></a>
       </td>
@@ -57,9 +59,9 @@ _Feel free to connect with me to discuss any interesting project ideas, cool opp
       </td>
       <td>
         <a href="https://www.markdownguide.org/" target="_blank">
-          <img src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png?raw=true" alt="Markdown" height="40"/></a>
+          <img src="https://skillicons.dev/icons?i=md" alt="Markdown" height="40"/></a>
         <a href="https://www.latex-project.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/latex-light.svg" alt="Latex" height="40"/></a>
+          <img src="https://skillicons.dev/icons?i=latex" alt="Latex" height="40"/></a>
       </td>
     </tr>
   </tbody>
