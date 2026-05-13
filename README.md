@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Alen!
 
-_A full-time CS Master's student and a part-time software engineer who works on building AI-powered data applications where my contributions entail the application development that runs on a cloud infrastructure. I enjoy working on problems involving the development of efficient algorithms, use machine learning to solve unique business problems and investigating root causes to build creative solutions when systems break or when I notice them being unexpectedly inefficient._
+A master's student who is passionate about designing efficient algorithms, use machine learning to solve interesting business problems, solving hard engineering problems and debugging systems to find creative solutions.
 
 _Feel free to connect with me to discuss any interesting project ideas, cool opportunities or restaurant/café recommendations._ 🙂
 
 ## Currently, I'm
 
 - 👨‍🎓 Pursuing a Master's Degree in Computer Science @[National University of Singapore](https://nus.edu.sg/).<br>
-- 👨‍💻 Working as a Software Engineering Intern @[Aleph Technologies](https://www.alephtech.ai/) <br>
-- 💭 Learning about Operating Systems, Network Security and Microsoft Azure Fundamentals.
+
+- 💭 Learning Next.JS, Networking Concepts and Agentic Coding (OpenAI/Codex).
 
 ## 💻 Tech Stack
 
@@ -53,9 +53,7 @@ _Feel free to connect with me to discuss any interesting project ideas, cool opp
         <a href="https://pola.rs/" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/83768144?s=48&v=4" alt="Polars" height="40"/></a>
         <a href="https://pytorch.org/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/21003710?s=48&v=4" alt="PyTorch" height="40"/></a>
-        <a href="https://numpy.org/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/288276?s=48&v=4" alt="NumPy" height="40"/></a>
+          <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="40"/></a>
       </td>
       <td>
         <a href="https://www.markdownguide.org/" target="_blank">
