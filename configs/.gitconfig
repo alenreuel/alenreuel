@@ -1,0 +1,12 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Alen Reuel
+	email = alenreuel_macOS
+
+[core]
+	pager = delta
+
+[delta]
+	navigate = true
+	side-by-side = true
