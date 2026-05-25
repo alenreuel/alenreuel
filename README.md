@@ -4,6 +4,8 @@ A master's student who is passionate about designing efficient algorithms, use m
 
 _Feel free to connect with me to discuss any interesting project ideas, cool opportunities or restaurant/café recommendations._ 🙂
 
+[**Resume**](resume/resume.pdf)
+
 ## Currently, I'm
 
 - 👨‍🎓 Pursuing a Master's Degree in Computer Science @[National University of Singapore](https://nus.edu.sg/).<br>

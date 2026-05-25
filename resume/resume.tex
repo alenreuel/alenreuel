@@ -1,0 +1,179 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+
+
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\bfseries\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \small \textbf{#1} & {\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \small#2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Alen Reuel} \\ \vspace{1pt}
+    \small +65-85893218 $|$ \href{mailto:reuel.alen@gmail.com}{\underline{reuel.alen@gmail.com}} $|$ 
+    \href{https://www.linkedin.com/in/alen-reuel/}{\underline{linkedin.com/alen-reuel/}} $|$
+    \href{https://github.com/alenreuel}{\underline{github.com/alenreuel}} \\ 
+
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {National University of Singapore, Singapore}{Aug 2025 -- Present}
+      {Master of Computing}{Singapore, Singapore}
+      \resumeItemListStart
+      \resumeItem{Current CGPA: 4.88/5.00}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Nanyang Technological University, Singapore}{Aug 2018 -- May 2022}
+      {Bachelor of Engineering (Chemical and Biomolecular Engineering)}{Singapore, Singapore}
+      \resumeItemListStart
+        \resumeItem{Graduated with Honors, Highest Distinction, CGPA: 4.62/5.00}
+        \resumeItem{Dean’s List Award Recipient for AY 2019/20, 20/21, 21/22 (Top 5\% in cohort)}
+      \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+
+\section{Work Experience}
+  \resumeSubHeadingListStart
+
+      \resumeSubheading
+      {Software Engineering Intern, Backend and Machine Learning}{ Sep 2025 -- Apr 2026}
+      { Aleph Technologies}{ Singapore, Singapore}
+      \resumeItemListStart
+        \resumeItem{Built the MLOps pipeline which automated model training, validation, deployment and monitoring using Azure ML and Prefect. Resulted in improved iteration speed from training to deployment by 80\%.}
+        \resumeItem{Leveraged Prefect and designed orchestration workflows 
+        to parallelize ML model training computation across remote compute in Azure cloud. Reduced backend server load by 70\% and average end-user request time by 40\%.}
+        \resumeItem{Identified frontend data processing bottlenecks, refactored API calls to directly upload to Azure Blob storage through signed URLs instead of data transfer via HTTP post requests. Reduced memory related failure events on client-side by 40-50\%.}
+        
+    \resumeItemListEnd
+
+
+
+    \resumeSubheading
+      {Research Engineer, Applied Machine Learning}{ Nov 2023 -- Aug 2025}
+      { National University of Singapore}{ Singapore, Singapore}
+      \resumeItemListStart
+        \resumeItem{Collaborated with Pfizer and led a research project on the application of machine learning for equipment calibration that reduced operational downtime in pharmaceutical plants.}
+        \resumeItem{Modeled industrial processes using RNN-based models (PyTorch) that demonstrated reliable predictions with high accuracy ($<5\%$ MAPE). Improved equipment recalibration time by 75\% through faster feedback loops compared to traditional methods.}
+        \resumeItem{Designed API endpoints (FastAPI) for web application to inference ML models and built docker images for reproducible deployments that reduced integration time for industry collaborators by 43\%.}
+        \resumeItem{Organized bi-weekly meetings to collect user feedback on UX experience from collaborators. Consistently resolved 90\% UI concerns in React App prior to subsequent review-cycles.}
+        
+      \resumeItemListEnd
+        
+
+    \resumeSubheading
+      {Process and Equipment Engineer, Dry Etch}{Aug 2022 -- Feb 2023}
+      {Micron Semiconductor Asia Pte Ltd., Singapore}{ Singapore, Singapore}
+      \resumeItemListStart
+        \resumeItem{Conducted rigorous statistical analysis of the product line, pinpointed underlying factors contributing to KPI drifts, delivered weekly analytical reports and presented findings to cross-functional stakeholders.}
+        \resumeItem{Extracted, transformed, and analyzed manufacturing datasets to optimize process and equipment performance. Identified equipments requiring preventive maintenance and ensured $>80\%$ availability of production equipment.}
+    \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-------------------------------------------
+\end{document}
