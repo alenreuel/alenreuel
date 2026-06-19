@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alen!
 
-A master's student who is passionate about designing efficient algorithms, use machine learning to solve interesting business problems, solving hard engineering problems and debugging systems to find creative solutions.
+A master's student who is passionate about designing efficient algorithms, use machine learning to solve interesting business problems, tackling hard engineering problems, and debugging systems to find creative solutions.
 
 _Feel free to connect with me to discuss any interesting project ideas, cool opportunities or restaurant/café recommendations._ 🙂
 
